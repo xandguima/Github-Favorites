@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <style>.has-scrollbars .popup-hd { right: 15px; }</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Github Favorites</title>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <img src="./img/Gitfav.svg" alt="GitFav">
+      <div class="wrapper-search">
+        <label for="git-search">Digite o Github username que quer favoritar</label>
+        <input type="text" id="git-search" placeholder="Digite o Github username que quer favoritar">
+        <button class="addGit">
+          <img src="./img/star.svg" alt="star Favorites">
+          <p>FAVORITAR</p>
+        </button>
+      </div>
+    </header>
+    <table>
+      <thead>
+        <th>Úsuario</th>
+        <th>Repositories</th>
+        <th>Followers</th>
+        <th>Ação</th> 
+      </thead>
+
+      <tbody></tbody>
+
+    </table>
+  </div>
+
+  <div class="modal-wrapper">
+    <div class="modal">
+      <p>Tem certeza que deseja deletar esse perfil?</p>
+      <div class="buttons">
+         <button class="delete">Sim</button>
+         <button class="recuse">Não</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="errorAlert">
+    <p>alert eerror</p>
+  </div>
+  <script src="./js/main.js" type="module"></script>
+</body>
+</html>
