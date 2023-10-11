@@ -1,7 +1,7 @@
-<h1 align="center"> Shorts Summary </h1>
+<h1 align="center"> Git-Fav </h1>
 
 <p align="center">
-Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, durante o evento nlw IA. <br/>
+Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="NLWIA" src=".github/preview.png" width="100%">
+  <img alt="git-fav" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,32 +27,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Axios
-- Express
-- Cors
-- ytdl-core
-- Xenova/transformers
-- FFmpeg
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do Youtube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.
-
-_Necessário uso do Node.js version 18._
-_Comando necessários para rodar o projeto:_
-_-npm run server_
-_-npm run web_
+O Git-fav é um projeto pensado para me desenvolver e explorar ferramentas disponivéis no javaScript. Consiste em criar uma lista pessoal atráves de uma table dos seus Github favoritos guardando-os no localhost e preenchendo os dados da tabela consumindo o API do Github. Fiz algumas mudanças sutis no projeto original para que ele fique ainda mais objetivo e eficiente para o úsuario.
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1282823495335498952). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1282823495335498952](https://www.figma.com/file/smyfQxv97wDFAoUO03Jl2f/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=104%3A48&mode=design&t=btj835omlxlrMAuI-1)https://www.figma.com/file/smyfQxv97wDFAoUO03Jl2f/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=104%3A48&mode=design&t=btj835omlxlrMAuI-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-# Github-Favorites
