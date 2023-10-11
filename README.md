@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Git-fav é um projeto pensado para me desenvolver e explorar ferramentas disponivéis no javaScript. Consiste em criar uma lista pessoal atráves de uma table dos seus Github favoritos guardando-os no localhost e preenchendo os dados da tabela consumindo o API do Github. Fiz algumas mudanças sutis no projeto original para que ele fique ainda mais objetivo e eficiente para o úsuario.
+O Git-fav é um projeto pensado para me desenvolver e explorar ferramentas disponivéis no javaScript. Consiste em criar uma lista pessoal atráves de uma tabela com seus perfis de Github favoritos guardando-os no localhost e preenchendo os dados da tabela consumindo o API do Github. Fiz algumas mudanças sutis no projeto original para que ele fique ainda mais objetivo e eficiente para o úsuario.
 
 
 ## 🔖 Layout
