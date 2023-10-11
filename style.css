@@ -21,7 +21,7 @@ body * {
 
 body{
   
-  padding: 7rem 16rem 1rem;
+  padding: 7rem 5rem 1rem;
   background: #090809;
 }
 
@@ -297,5 +297,13 @@ td .remove{
   }
   to{
     transform: translateY(0%);
+  }
+}
+@media(max-width:1030px){
+  header{
+    width: 100;
+  }
+  .wrapper-search input {
+    width: 100%;
   }
 }
