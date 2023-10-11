@@ -84,6 +84,9 @@ export class FavoritesView extends Favorites{
     window.onclick=()=>{
       AlertError.closeError()
     }
+    window.addEventListener("keydown",(event)=>{
+      AlertError.closeError()
+    })
     
   }
 
