@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="git-fav" src=".github/preview.png" width="100%">
+  <img alt="git-fav" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
