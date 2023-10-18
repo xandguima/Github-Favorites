@@ -37,7 +37,7 @@ O Git-fav é um projeto pensado para me desenvolver e explorar ferramentas dispo
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1282823495335498952](https://www.figma.com/file/smyfQxv97wDFAoUO03Jl2f/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=104%3A48&mode=design&t=btj835omlxlrMAuI-1)https://www.figma.com/file/smyfQxv97wDFAoUO03Jl2f/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=104%3A48&mode=design&t=btj835omlxlrMAuI-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/smyfQxv97wDFAoUO03Jl2f/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?type=design&node-id=104%3A48&mode=design&t=btj835omlxlrMAuI-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
